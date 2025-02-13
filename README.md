@@ -30,12 +30,12 @@ Live Status Check App은 안드로이드 기반의 상태 모니터링 애플리
 - 빌드 도구: Gradle
 
 ## 프로젝트 구조
-Live_Status_Check_App/
-├── app/ # 메인 애플리케이션 모듈
-├── gradle/wrapper/ # Gradle 래퍼 설정
-├── .idea/ # IDE 설정
-├── build.gradle # 프로젝트 레벨 빌드 설정
-└── settings.gradle # Gradle 설정 파일
+<p>Live_Status_Check_App/</p>
+<p>├── app/ # 메인 애플리케이션 모듈</p>
+<p>├── gradle/wrapper/ # Gradle 래퍼 설정</p>
+<p>├── .idea/ # IDE 설정</p>
+<p>├── build.gradle # 프로젝트 레벨 빌드 설정</p>
+<p>└── settings.gradle # Gradle 설정 파일</p>
 
 
 ## 주요 기능
